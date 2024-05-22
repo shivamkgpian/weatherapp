@@ -1,3 +1,7 @@
+# api keys
+Create a .env file and save the below keys into the files
+REACT_APP_RAPID_KEY=59c3551242msh68c7eb689dda1b8p16a919jsn47973469c9f0
+REACT_APP_WEATHER_API_KEY=3ad57d436cd08feb09c7d596da655870
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
